@@ -26,15 +26,15 @@ Data has been filtered to exclude years before 1900 due to minimal records, ensu
 
 ## Key Findings
 1. **Rising Global Emissions:**
-  - CO2 emissions have been increasing steadily, with developed regions such as North America, Europe, and parts of Asia being the major contributors.
-  - The industrialization and development of these regions are strongly linked to their emission levels.
+    - CO2 emissions have been increasing steadily, with developed regions such as North America, Europe, and parts of Asia being the major contributors.
+    - The industrialization and development of these regions are strongly linked to their emission levels.
     
 2. **Dependence on Fossil Fuels:**
-  - Fossil fuels remain the primary contributors to CO2 emissions.
-  - Different countries rely on different types of fossil fuels (e.g., coal, oil) based on their economic standing and accessibility.
+    - Fossil fuels remain the primary contributors to CO2 emissions.
+    - Different countries rely on different types of fossil fuels (e.g., coal, oil) based on their economic standing and accessibility.
     
 3. **Greenhouse Gas Contributions:**
-  - Besides CO2, gases like Methane and Nitrous Oxide play significant roles in climate change, especially in countries with large agricultural sectors.
+    - Besides CO2, gases like Methane and Nitrous Oxide play significant roles in climate change, especially in countries with large agricultural sectors.
     
 ## Storytelling and Interpretation
 The visualizations narrate a cohesive story about the global emissions landscape, showing a clear link between economic development and emission levels. Developed countries with extensive industrial activities produce significantly higher emissions, while underdeveloped nations with less infrastructure show lower emission levels.
