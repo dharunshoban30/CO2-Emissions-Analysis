@@ -14,15 +14,15 @@ Data has been filtered to exclude years before 1900 due to minimal records, ensu
 
 ## Project Structure
 1. **Summary Visualization:**
-  - A world map depicting the global distribution of CO2 emissions.
-  - A historical line chart showing the trend of CO2 emissions from 1900 to 2021.
-  - Bar charts displaying average CO2 emissions per capita for the highest and lowest emitting countries.
-  - An interactive dashboard allowing users to select specific countries for detailed analysis.
+    - A world map depicting the global distribution of CO2 emissions.
+    - A historical line chart showing the trend of CO2 emissions from 1900 to 2021.
+    - Bar charts displaying average CO2 emissions per capita for the highest and lowest emitting countries.
+    - An interactive dashboard allowing users to select specific countries for detailed analysis.
 
 2. **Data Analysis:**
-  - **CO2 Emission Trends:** Shows a continuous upward trend in CO2 emissions, especially from the mid-20th century.
-  - **Emission Sources:** Analyzes different countries' reliance on various fossil fuels.
-  - **Greenhouse Gases Impact:** Reveals the impact of other gases like Methane and Nitrous Oxide on temperature changes.
+    - **CO2 Emission Trends:** Shows a continuous upward trend in CO2 emissions, especially from the mid-20th century.
+    - **Emission Sources:** Analyzes different countries' reliance on various fossil fuels.
+    - **Greenhouse Gases Impact:** Reveals the impact of other gases like Methane and Nitrous Oxide on temperature changes.
 
 ## Key Findings
 1. **Rising Global Emissions:**
